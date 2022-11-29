@@ -10,10 +10,10 @@ import { TransactionHistory } from './TransactionHistory/TransactionHistory';
 export const App = () => {
   return (
     <>
-      <TransactionHistory items={transactions}/>
       <Profile user={user} />
       <Statistics title="Upload stats" stats={data} />
       <FriendList friends={friends} />
+      <TransactionHistory items={transactions}/>
     </>
   );
 };
