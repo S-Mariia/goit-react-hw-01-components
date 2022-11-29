@@ -1,0 +1,17 @@
+.transactionHistory {
+    margin: 50px auto;
+    width: 700px;
+
+}
+
+tr {
+}
+
+td {
+    width: calc(100% / 3);
+
+}
+
+th {
+    background-color: #54bdd6;
+}

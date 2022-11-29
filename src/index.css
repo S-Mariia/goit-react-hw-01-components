@@ -1,6 +1,8 @@
-/* @import-normalize; bring in normalize.css styles */
 @import 'modern-normalize';
-
+/* @value mainTextColor: #9aa6b1; */
+/* @value mainTextColor: red;
+@value secondaryTextColor: #22364b;
+@value backgroundColor: #f3f6f9; */
 
 body {
   margin: 0;
